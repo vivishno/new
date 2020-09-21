@@ -9,8 +9,8 @@ on:
 #   RESOURCE_GROUP 
 #   CONTAINER_REGISTRY_NAME
 env:
- RESOURCE_GROUP: trylastregistry      #set this to your resource group name      
- CONTAINER_REGISTRY_NAME: myregistryvivek    #set this to your container registry name
+ RESOURCE_GROUP: trylastacr      #set this to your resource group name      
+ CONTAINER_REGISTRY_NAME: trylastregistry    #set this to your container registry name
  
 jobs:
     build-and-deploy:
