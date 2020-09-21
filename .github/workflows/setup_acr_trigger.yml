@@ -9,7 +9,7 @@ on:
 #   RESOURCE_GROUP 
 #   CONTAINER_REGISTRY_NAME
 env:
- RESOURCE_GROUP: ignitedemo1       #set this to your resource group name      
+ RESOURCE_GROUP: trylastregistry      #set this to your resource group name      
  CONTAINER_REGISTRY_NAME: myregistryvivek    #set this to your container registry name
  
 jobs:
