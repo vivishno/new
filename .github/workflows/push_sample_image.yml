@@ -1,4 +1,4 @@
-on: 
+on:  
  push: 
   paths:
    - '.github/workflows/push_sample_image.yml' 
